@@ -7,7 +7,7 @@ iOS开发优秀博客和软件推荐
 
 
 ### iOS开发中文博客
-博客地址 | RSS地址 | 博主微博
+博客名称/地址 | RSS地址 | 博主微博
 ----- | ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml> | [onevcat](http://weibo.com/onevcat)
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml> | [唐巧_boy](http://weibo.com/tangqiaoboy)
@@ -23,7 +23,7 @@ iOS开发优秀博客和软件推荐
 
 
 ### iOS开发工具
-软件名称 | 功能简介 | 费用
+软件名称/地址 | 功能简介 | 费用
 ----- | ----- | -----
 [Charles](http://www.charlesproxy.com/) | 抓包代理调试工具 | $50
 [Atom](https://atom.io/) | Github 自家出的编辑器 | 免费
@@ -40,3 +40,13 @@ iOS开发优秀博客和软件推荐
 [xctool](https://github.com/facebook/xctool) | 来自Facebook，通过命令行创建和测试你的应用 | 免费
 [Mocks](https://github.com/facebook/xctool) | 快速创建iOS应用原型的工具 | $9.99
 [Mogenerator](http://rentzsch.github.com/mogenerator/) | 在你的Core Data模型中生成NSManagedObjects智能子类 | 免费
+
+
+### iOS开发网站
+网站名称/地址 | 网站简介
+----- | -----
+[objc](https://www.objc.io/) | 定期发布一些有关 Objective-C 的高质量的文章
+[objc中国](http://objccn.io/) | 喵神组织的对 objc.io 的翻译网站
+[NSHipster](http://nshipster.cn/) | 关注被忽略的 Objective-C、Swift 和 Cocoa 特性
+[CocoaChina](http://www.cocoachina.com) | 最大苹果开发者中文社区
+[code4app](http://www.code4app.com) | 国内的iOS开源资源网站
