@@ -20,6 +20,11 @@ iOS开发优秀博客和软件推荐
 [程序媛念茜](https://nianxi.net/) | <https://nianxi.net/feed.xml> | 暂无
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml> | 暂无
 [李峰峰博客](http://www.imlifengfeng.com/blog/) | <http://www.imlifengfeng.com/blog/?feed=atom> | [imlifengfeng](http://weibo.com/devfeng/home)
+[代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml> | 暂无
+[王中周的技术博客](http://joeyio.com) | <http://joeyio.com/atom.xml> | [foogry](http://weibo.com/foogry)
+[不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml> | 暂无
+[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss> | 暂无
+
 
 
 ### iOS开发工具
@@ -50,3 +55,5 @@ iOS开发优秀博客和软件推荐
 [NSHipster](http://nshipster.cn/) | 关注被忽略的 Objective-C、Swift 和 Cocoa 特性
 [CocoaChina](http://www.cocoachina.com) | 最大苹果开发者中文社区
 [code4app](http://www.code4app.com) | 国内的iOS开源资源网站
+[飞行日志](http://blog.fir.im) | fir.im主办的博客，很多高质量技术博客
+[iconfont](http://www.iconfont.cn) | 阿里巴巴旗下高质量图标资源库
