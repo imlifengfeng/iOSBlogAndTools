@@ -25,6 +25,10 @@ iOS开发优秀博客和软件推荐
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml> | 暂无
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss> | 暂无
 [bang's Blog](http://blog.cnbang.net) | 暂无 | [bang](http://weibo.com/bang)
+[雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml> | [雷纯锋2011](http://weibo.com/leichunfeng?is_hot=1)
+[土土哥的技术Blog](http://tutuge.me) | <http://tutuge.me/atom.xml> | [土土哥tutuge](http://weibo.com/zekunyan?is_hot=1)
+[故胤道长](http://www.jianshu.com/u/8d5b91490ca5) | 暂无 | [故胤道长 ](http://weibo.com/soapyigu)
+[MrPeak杂货铺](http://mrpeak.cn) | <http://mrpeak.cn/feed.xml> | [愚公编程MrPeak](http://weibo.com/p/1005051993445913/info?mod=pedit_more)
 
 
 
