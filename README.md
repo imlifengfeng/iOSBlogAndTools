@@ -24,7 +24,7 @@ iOS开发优秀博客和软件推荐
 [王中周的技术博客](http://joeyio.com) | <http://joeyio.com/atom.xml> | [foogry](http://weibo.com/foogry)
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml> | 暂无
 [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) | <http://www.cnblogs.com/kenshincui/rss> | 暂无
-[bang's Blog](http://blog.cnbang.net) | <http://www.cnblogs.com/kenshincui/rss> | [bang](http://weibo.com/bang)
+[bang's Blog](http://blog.cnbang.net) | 暂无 | [bang](http://weibo.com/bang)
 
 
 
