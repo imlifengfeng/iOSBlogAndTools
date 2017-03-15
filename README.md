@@ -27,8 +27,9 @@ iOS开发优秀博客和软件推荐
 [bang's Blog](http://blog.cnbang.net) | 暂无 | [bang](http://weibo.com/bang)
 [雷纯锋的技术博客](http://blog.leichunfeng.com) | <http://blog.leichunfeng.com/atom.xml> | [雷纯锋2011](http://weibo.com/leichunfeng?is_hot=1)
 [土土哥的技术Blog](http://tutuge.me) | <http://tutuge.me/atom.xml> | [土土哥tutuge](http://weibo.com/zekunyan?is_hot=1)
-[故胤道长](http://www.jianshu.com/u/8d5b91490ca5) | 暂无 | [故胤道长 ](http://weibo.com/soapyigu)
+[故胤道长](http://www.jianshu.com/u/8d5b91490ca5) | 暂无 | [故胤道长](http://weibo.com/soapyigu)
 [MrPeak杂货铺](http://mrpeak.cn) | <http://mrpeak.cn/feed.xml> | [愚公编程MrPeak](http://weibo.com/p/1005051993445913/info?mod=pedit_more)
+[靛青K](https://blog.dianqk.org) | <https://blog.dianqk.org/atom.xml> | [靛青K](https://weibo.com/DianQK)
 
 
 
@@ -62,3 +63,7 @@ iOS开发优秀博客和软件推荐
 [code4app](http://www.code4app.com) | 国内的iOS开源资源网站
 [飞行日志](http://blog.fir.im) | fir.im主办的博客，很多高质量技术博客
 [iconfont](http://www.iconfont.cn) | 阿里巴巴旗下高质量图标资源库
+[干货集中营](http://gank.io) | 每日按时分享Android、iOS等高质量资源，可邮件订阅
+[泊学](https://boxueio.com) | 服务于一线开发者的前沿技术视频网站
+[SwiftGG](http://swift.gg) | 走心的 Swift 翻译组
+[51ios.net](http://www.51ios.net) | iOS开发资源聚合网站
