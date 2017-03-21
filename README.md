@@ -51,6 +51,7 @@ iOS开发优秀博客和软件推荐
 [xctool](https://github.com/facebook/xctool) | 来自Facebook，通过命令行创建和测试你的应用 | 免费
 [Mocks](https://github.com/facebook/xctool) | 快速创建iOS应用原型的工具 | $9.99
 [Mogenerator](http://rentzsch.github.com/mogenerator/) | 在你的Core Data模型中生成NSManagedObjects智能子类 | 免费
+[SimPholders](https://simpholders.com) | 在菜单栏上快速的访问iOS模拟器中的应用的文件夹 | $9.90
 
 
 ### iOS开发网站
