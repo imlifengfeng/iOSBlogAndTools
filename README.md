@@ -19,7 +19,7 @@ iOS开发优秀博客和软件推荐
 [txx's blog](http://blog.txx.im) | <http://blog.txx.im/atom.xml> | [糖炒小虾_txx](http://weibo.com/rpplusplus)
 [程序媛念茜](https://nianxi.net/) | <https://nianxi.net/feed.xml> | 暂无
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml> | 暂无
-[李峰峰博客](http://www.imlifengfeng.com/blog/) | <http://www.imlifengfeng.com/blog/?feed=atom> | [imlifengfeng](http://weibo.com/devfeng/home)
+[李峰峰博客](https://www.lixkit.com) | <https://www.lixkit.com/atom.xml> | [Lix](http://weibo.com/devfeng/home)
 [代码手工艺人](http://joeyio.com) | <http://joeyio.com/atom.xml> | 暂无
 [王中周的技术博客](http://joeyio.com) | <http://joeyio.com/atom.xml> | [foogry](http://weibo.com/foogry)
 [不会开机的男孩](http://studentdeng.github.io) | <http://studentdeng.github.io/atom.xml> | 暂无
